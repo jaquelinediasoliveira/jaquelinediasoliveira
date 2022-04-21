@@ -1,4 +1,4 @@
-<h1 align="center">🍃Hello guys!🍃</h1>
+<h1 align="center">🍃Hello, guys!🍃</h1>
  
      - 🔭 I'm currently working on developing an app to manage an NGO
      - 🌱 I'm currently graduating at System Analysis and Development
