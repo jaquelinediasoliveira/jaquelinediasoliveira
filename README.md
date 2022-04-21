@@ -1,12 +1,11 @@
 <h1 align="center">🍃Hello guys!🍃</h1>
  
      - 🔭 I'm currently working on developing an app to manage an NGO
-     - 🌱 Attending the last semester of the technical course in Systems Analysis and Development
+     - 🌱 I'm currently graduating at System Analysis and Development
      - 👯 I'm looking to collaborate on social projects
      - 😄 Pronouns: She/her
     
 <div style="display: inline_block"><br>
-<!--     <img align="right" src="https://media3.giphy.com/media/2txtjdsnQHW0IhUia2/giphy.gif?cid=ecf05e47xzrvfvdu3xiyhji6mpyzm4jx37yk68ttmzz5sum5&rid=giphy.gif&ct=g" height="130" width= "230"/> -->
     <img align="right" src="https://media2.giphy.com/media/arxiLc5EiFhja/100.webp?cid=ecf05e477c1vhultv4u0y6wpymejhrmvjl7q7okv7ajet2ib&rid=100.webp&ct=g" height="130"/>
 </div><br>
 
