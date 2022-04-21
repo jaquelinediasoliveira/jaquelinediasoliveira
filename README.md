@@ -10,7 +10,7 @@
     <img align="right" src="https://media2.giphy.com/media/arxiLc5EiFhja/100.webp?cid=ecf05e477c1vhultv4u0y6wpymejhrmvjl7q7okv7ajet2ib&rid=100.webp&ct=g" height="130"/>
 </div><br>
 
-<a href = "jaquelinediasoliveira5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:jaquelinediasoliveira5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jaqueline-dias-oliveira-0b68a4228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ##
